@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Evelyn%20Sena&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20|%20UFC&descAlignY=55&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Evelyn%20Sena&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20|%20FullStack%20Developer&descAlignY=55&descSize=20" />
 
 <br/>
 
@@ -15,8 +15,7 @@
 
 ## Sobre mim
 
-Sou desenvolvedora de software formada em Engenharia de Software pela UFC, com experiência em desenvolvimento fullstack.
-
+Sou desenvolvedora de software formada em Engenharia de Software pela Universidade Federal do Ceará, com experiência em desenvolvimento fullstack.
 ---
 
 ## Tech Stack
@@ -43,6 +42,8 @@ Sou desenvolvedora de software formada em Engenharia de Software pela UFC, com e
 
 <div align="center">
 
-https://github-readme-streak-stats.herokuapp.com/?user=evelynd3v&theme=dark&hide_border=true&background=0D1117&stroke=e75a9c&ring=e75a9c&fire=e75a9c&currStreakLabel=e75a9c
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=evelynd3v&theme=dark&hide_border=true&background=0D1117&stroke=e75a9c&ring=e75a9c&fire=e75a9c&currStreakLabel=e75a9c)
 
 </div>
+
+
