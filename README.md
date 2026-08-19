@@ -43,6 +43,6 @@ Sou desenvolvedora de software formada em Engenharia de Software pela UFC, com e
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark&hide_border=true&title_color=e75a9c&icon_color=e75a9c&text_color=ffffff&bg_color=0d1117)
+https://github-readme-streak-stats.herokuapp.com/?user=evelynd3v&theme=dark&hide_border=true&background=0D1117&stroke=e75a9c&ring=e75a9c&fire=e75a9c&currStreakLabel=e75a9c
 
 </div>
